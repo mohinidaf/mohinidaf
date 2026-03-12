@@ -1,16 +1,31 @@
-## Hi there 👋
+💫 About Me:
+Hi 👋, I’m Mohini Daf
 
-<!--
-**mohinidaf/mohinidaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year B.Tech Computer Science Student
+💻 Aspiring Full Stack Developer
+🤖 Learning Generative AI & Data Structures
+🚀 Passionate about building projects and solving problems
 
-Here are some ideas to get you started:
+🛠️ Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Languages: C, C++, JavaScript, Python
+* Web Development: HTML, CSS, React (learning)
+* Tools: Git, GitHub, Figma, VS Code
+* Other Interests: AI, NLP, Generative AI
+🌐 Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/mohini-daf-86872727a/
+* Kaggle: https://kaggle.com/
+
+⭐ Always learning, building, and growing as a developer.
+
+🌐 Socials:
+Instagram LinkedIn Stack Overflow X [Mastodon](https://mastodon.social/@Mohini Kamlakar Daf) email
+
+💻 Tech Stack:
+C C++ CSS3 Python JavaScript HTML5 Netlify Firebase Vercel React TailwindCSS OpenCV
+
+
+
+
+
